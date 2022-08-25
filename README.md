@@ -1,2 +1,10 @@
 # Face_att_final
-This is my face detection project
+Second Semesster project.
+## Attendance System 
+### System Requrement 
+#### 1. Python3
+<ul>
+OS
+OpenCV
+</ul>
+2. WebServer to host code and website 
