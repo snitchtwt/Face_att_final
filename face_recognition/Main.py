@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 
-path = '/Users/snitch/Desktop/Second Yr Proj/img' 
+path = '/img' 
 images = []                     
 Student_List = []               
 myList = os.listdir(path)       #importing the images 
