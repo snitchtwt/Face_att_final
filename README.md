@@ -7,6 +7,6 @@ Second Semesster project.
 * OpenCV
 * Date and time
 * face_recognition 
-2. WebServer to host code and website 
+#### 2. WebServer to host code and website 
 * Apache Linux for web hosting 
 * Heroku for code hosting and compilation 
