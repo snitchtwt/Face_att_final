@@ -1,0 +1,56 @@
+hr{
+  border: dotted #909090 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 125%;
+  width: 30%;
+  margin: 50px auto;
+  padding-bottom: 10px;
+}
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+a{
+  color: #ffffff;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+
+}
+a:hover{
+  color: 	#000000;
+}
+.btn {
+  background: #0c3294;
+  background-image: -webkit-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: -moz-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: -ms-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: -o-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: linear-gradient(to bottom, #0c3294, #0d2c87);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}

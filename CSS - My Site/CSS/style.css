@@ -1,0 +1,142 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+h1{
+  font-size: 437.5%;
+  margin-top: 50px;
+}
+h2{
+  font-weight: normal;
+  font-size: 125%;
+  width: 30%;
+  margin: 50px auto;
+  padding-bottom: 10px;
+}
+h3{
+  color: #000080;
+  font-size: 150%;
+
+}
+h4{
+  color: #000080;
+  font-size: 200%;
+}
+h5{
+  color: #000080;
+  font-size: 150%;
+}
+
+h6{
+  color: #000080;
+  font-size: 150%;
+}
+hr{
+  border: dotted #909090 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+.top-container{
+  background-color: #E4F9F5;
+  .banner width: 100%;
+}
+.mid-container{
+  margin: 100px 0;
+
+
+}
+.bottom-container{
+  background-color: #192041;
+  padding: 50px 0 20px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+a{
+  color: #ffffff;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+
+}
+a:hover{
+  color: 	#000000;
+}
+
+.idea{
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+.touch{
+  width: 40%;
+  float: right;
+  margin-left: : 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-us{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #0c3294;
+  background-image: -webkit-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: -moz-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: -ms-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: -o-linear-gradient(top, #0c3294, #0d2c87);
+  background-image: linear-gradient(to bottom, #0c3294, #0d2c87);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.face{
+  width: 15%;
+  margin: 50px 0 20px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.footer-link{
+
+  font-size: 20px;
+}
+.left{
+
+}
+.left1{
+
+}
+.left2{
+
+}
+.VIT{
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
